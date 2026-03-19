@@ -27,3 +27,22 @@ Each problem includes:
 
 ## ⭐ Support
 If you find this helpful, give it a ⭐
+
+
+
+
+# LeetCode Solutions
+
+## Problems Solved
+
+1. Two Sum  
+   - Approach: Hash Map  
+   - Time: O(n), Space: O(n)
+
+2. Merge Two Sorted Lists  
+   - Approach: Two Pointer  
+   - Time: O(n), Space: O(1)
+
+3. Remove Element  
+   - Approach: Two Pointer  
+   - Time: O(n), Space: O(1)
